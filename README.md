@@ -1,13 +1,13 @@
 # AWS Projects Showcase
 A collection of AWS Applications 
 ---
-## **[Web Application Architcure](https://github.com/rjm3q/AWS-Projects/tree/main/Architecure-Focused)**
+## **[Web Application Architecture](https://github.com/rjm3q/AWS-Projects/tree/main/Architecure-Focused)**
 
-### Using an EC2 instance and RDS build a website using best AWS Architecure practices
+### Using an EC2 instance and RDS build a website using best AWS Architecture practices
 - [ ] What was designed
 - [ ] Why use these services
 - [ ] How they work together
-- [ ] Add Architecure Diagram
+- [ ] Add Architecture Diagram
 ---
 ## **[Text-to-Speech Application](https://github.com/rjm3q/AWS-Projects/tree/main/Text-to-speech)**
 
@@ -21,7 +21,7 @@ A collection of AWS Applications
 ### Using a Lambda function and SES create an Email application to reach out to a large audience
 
 - [ ] Setup Lambda
-  - [ ] Import CSV in dataabse
+  - [ ] Import CSV in database
   - [ ] read recipient data
   - [ ] Configure SES to send emails
 - [ ] Setup S3 bucket to store files
@@ -35,8 +35,8 @@ A collection of AWS Applications
 
 - [ ] Host project code on GitHub
   - [ ] Setup version control
-  - [ ] Congifure build env with GitHub actions
-- [ ] Create AWS Code Pipeline
+  - [ ] Configure build env with GitHub actions
+- [ ] Create AWS Codepipeline
   - [ ]  Define Build phase
   - [ ]  Define Test phase
   - [ ]  Define Deploy phase
@@ -57,7 +57,7 @@ A collection of AWS Applications
 ---
 ## **[Content Recommendation Application](https://github.com/rjm3q/AWS-Projects/tree/main/Content-Recommendation)**
 
-### Using Sage Maker and AWS MLS to create an AI/ML app that will recommend contect based on past online behavior
+### Using Sage Maker and AWS MLS to create an AI/ML app that will recommend content based on past online behavior
 
 - [ ] Setup Sage Maker
   - [ ] Gather user data
@@ -76,7 +76,7 @@ A collection of AWS Applications
   - [ ] Web Based
   - [ ] CLI Based
 - [ ] Option to download or Display
-- [ ] Delpoy and host on Github webpage
+- [ ] Deploy and host on Github webpage
 ---
 
 # learn-cantrill-io-labs
@@ -122,3 +122,6 @@ A full range of Video guided versions are available in my courses at https://lea
 ## UNDER CONSTRUCTION OR BROKEN PROJECTS (DON'T USE) - fixes in progress
 
 - [Patching AWS and On-premises using Systems Manager Patch Manager](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-patch-manager)
+
+
+
