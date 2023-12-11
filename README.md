@@ -1,7 +1,7 @@
 # AWS Projects Showcase
 A collection of AWS Applications 
 ---
-## **Web Application Architcure**
+## **[Web Application Architcure](https://github.com/rjm3q/AWS-Projects/tree/main/Architecure-Focused)**
 
 ### Using an EC2 instance and RDS build a website using best AWS Architecure practices
 - [ ] What was designed
