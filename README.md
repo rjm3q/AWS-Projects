@@ -1,7 +1,7 @@
 # AWS Projects Showcase
 A collection of AWS Applications 
 ---
-## **Web Application Architcure**
+## **[Web Application Architcure](https://github.com/rjm3q/AWS-Projects/tree/main/Architecure-Focused)**
 
 ### Using an EC2 instance and RDS build a website using best AWS Architecure practices
 - [ ] What was designed
@@ -9,14 +9,14 @@ A collection of AWS Applications
 - [ ] How they work together
 - [ ] Add Architecure Diagram
 ---
-## **Text-to-Speech Application**
+## **[Text-to-Speech Application](https://github.com/rjm3q/AWS-Projects/tree/main/Text-to-speech)**
 
 ### Using a Lambda function and Polly create an application that takes text input from the user to convert into speech
 - [ ] Setup Lambda
 - [ ] Choose languages and voices
 - [ ] Create simple web interface
 ---
-## **Lambda Email Application**
+## **[Lambda Email Application](https://github.com/rjm3q/AWS-Projects/tree/main/Email-lambda)**
 
 ### Using a Lambda function and SES create an Email application to reach out to a large audience
 
@@ -29,7 +29,7 @@ A collection of AWS Applications
   - [ ] Email Message
 - [ ] S3 Event trigger to monitor for csv changes
 ---
-## **CI/CD Pipeline**
+## **[CI/CD Pipeline](https://github.com/rjm3q/AWS-Projects/tree/main/CDCI-pipeline)**
 
 ### Build a CI/CD pipeline with Github actions and AWS Code pipeline to automate the build, test, and deploy process
 
@@ -44,7 +44,7 @@ A collection of AWS Applications
   - [ ]  Configure Manual Approval
 - [ ] Rollback strategy for failed deployments
 ---
-## **Virtual Assistant Application**
+## **[Virtual Assistant Application](https://github.com/rjm3q/AWS-Projects/tree/main/Virtual-Assistant)**
 
 ### Build a Virtual Assistant application using a lambda function and AWS ASK
 
@@ -55,7 +55,7 @@ A collection of AWS Applications
   - [ ] Book event space
 - [ ] Connect the Lambda and ASK 
 ---
-## **Content Recommendation Application**
+## **[Content Recommendation Application](https://github.com/rjm3q/AWS-Projects/tree/main/Content-Recommendation)**
 
 ### Using Sage Maker and AWS MLS to create an AI/ML app that will recommend contect based on past online behavior
 
@@ -64,7 +64,7 @@ A collection of AWS Applications
 - [ ] Configure ML process (k nearest neighbor)
   - [ ] train data
 ---
-## **Document Convert-o-matic**
+## **[Document Convert-o-matic](https://github.com/rjm3q/AWS-Projects/tree/main/Document-Converter)**
 
 ### Using a Lambda function create an application to allow users to transform files
 
